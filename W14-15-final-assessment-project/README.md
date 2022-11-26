@@ -17,6 +17,8 @@ There will be concepts and methods that you may not have been explicitly taught 
 
     * Note that the larger the group, the more, in terms of substance and form, will be expected of your final report.
 
+    * If you have a team of more than ONE member, then each member must submit a copy of the same project on the assignment portal on ``icampus``.
+
 3. Include a declaration page on your written report detailing:
 
     * Name of every author on the report in both Alphabetical Spelling and Korean 
