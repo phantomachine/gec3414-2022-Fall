@@ -1,4 +1,6 @@
-# Ass 1-4: Critical Reading and Research Communication Task
+# FINAL ASSESSMENT
+
+## Critical Reading and Research Communication Task
 
 This assessment is the final part of your ongoing assessment in this course.
 
